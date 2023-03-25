@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Thakkar</h1>
-<h3 align="center">Coding Enthusiast and Android developer</h3>
+<h3 align="center">Coding Enthusiast and a Software Engineer</h3>
 
 - 📫 How to reach me **sarthakthakkar752@gmail.com**
 
