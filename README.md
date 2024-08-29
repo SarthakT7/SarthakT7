@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sarthak Thakkar</h1>
 <h3 align="center">Coding Enthusiast and Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakt7&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakt7" /> </p>
+- 🔭 I’m currently working on [Utility-AI](https://github.com/SarthakT7/utility-ai)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakt7" alt="sarthakt7" /></a> </p>
-
-- 🔭 I’m currently working on [Toolbox-Pro](https://github.com/SarthakT7/Toolbox-Pro)
-
-- 👨‍💻 My portfolio is available at [https://my-portfolio-sarthakt7.vercel.app/](https://my-portfolio-sarthakt7.vercel.app/)
+- 👨‍💻 My portfolio is available at [https://portfolio.sarthakthakkar.pro](https://portfolio.sarthakthakkar.pro)
 
 - 📝 I regularly write articles on [https://monktech.hashnode.dev/](https://monktech.hashnode.dev/)
 
-- 💬 Ask me about **Python, Angular, React**
+- 💬 Ask me about **Typescript, Angular, React, Python**
 
 - 📫 How to reach me **sarthakthakkar752@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o4-B27bCRV_mNEyydj6XUQ4WYArLQsU2/view?usp=drive_link](https://drive.google.com/file/d/1o4-B27bCRV_mNEyydj6XUQ4WYArLQsU2/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KOnkPt1Z1248T7bAeCIUyStIMte1Zd8B/view?usp=sharing](https://drive.google.com/file/d/1KOnkPt1Z1248T7bAeCIUyStIMte1Zd8B/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am good at sports.**
 
