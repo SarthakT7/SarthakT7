@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Utility-AI](https://github.com/SarthakT7/utility-ai)
 
-- 👨‍💻 My portfolio is available at [https://portfolio.sarthakthakkar.pro](https://portfolio.sarthakthakkar.pro)
+- 👨‍💻 My portfolio is available at [https://portfolio.sarthak.space](https://portfolio.sarthak.space)
 
 - 📝 I regularly write articles on [https://monktech.hashnode.dev/](https://monktech.hashnode.dev/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sarthakthakkar752@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KOnkPt1Z1248T7bAeCIUyStIMte1Zd8B/view?usp=sharing](https://drive.google.com/file/d/1KOnkPt1Z1248T7bAeCIUyStIMte1Zd8B/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1KOnkPt1Z1248T7bAeCIUyStIMte1Zd8B/view?usp=sharing](https://drive.google.com/file/d/1KOnkPt1Z1248T7bAeCIUyStIMte1Zd8B/view?usp=sharing)](https://drive.google.com/file/d/1g4gJcZDrbKFIHuEotjTvDAR35X4idmG5/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am good at sports.**
 
