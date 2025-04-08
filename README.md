@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sarthakthakkar752@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1KOnkPt1Z1248T7bAeCIUyStIMte1Zd8B/view?usp=sharing](https://drive.google.com/file/d/1KOnkPt1Z1248T7bAeCIUyStIMte1Zd8B/view?usp=sharing)](https://drive.google.com/file/d/1g4gJcZDrbKFIHuEotjTvDAR35X4idmG5/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1g4gJcZDrbKFIHuEotjTvDAR35X4idmG5/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am good at sports.**
 
